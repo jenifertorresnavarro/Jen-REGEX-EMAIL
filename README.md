@@ -31,5 +31,8 @@ https://www.rexegg.com/regex-anchors.html
 ## What was learned 
 In this challenge I learned how to use Github Gist in order to create a post and write a tutorial. I also learned some important aspects about Regex and how to use it. 
 
+## Link to Github Gist Tutorial Regex 
+https://gist.github.com/jenifertorresnavarro/1211bd2c6f21339a18923240df4eac70
+
 ## License 
 MIT License 
